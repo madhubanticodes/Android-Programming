@@ -1,5 +1,4 @@
-package com.example.login;
-
+package com.example.loginvalidation;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
